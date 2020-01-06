@@ -185,7 +185,7 @@ limited. I'm just saying, there is an evil micro optimization to be
 found here.
 
 You would of course never do this, but if you find code that generates
-atom with a number followed by a postfix name, now you know what the
+atoms with a number followed by a postfix name, now you know what the
 author of that code might have been thinking.
 
 ****
